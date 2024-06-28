@@ -98,5 +98,6 @@ python predict.py
   ![img_result](https://github.com/adityale1711/CNN-Face-Mask-Detection/assets/72447020/1cee88fd-3f3b-4380-a49a-8a955da36311)
 
 - Video
-  https://github.com/adityale1711/CNN-Face-Mask-Detection/assets/72447020/30d67b25-1a46-4084-b7db-3b47b885feac
+
+https://github.com/adityale1711/CNN-Face-Mask-Detection/assets/72447020/30d67b25-1a46-4084-b7db-3b47b885feac
 
