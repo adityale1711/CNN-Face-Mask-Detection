@@ -94,3 +94,8 @@ python predict.py
 - the detection results will saved to 'python_code/Prediction/results'
 
 ## Results
+- Image
+  ![img_result](https://github.com/adityale1711/CNN-Face-Mask-Detection/assets/72447020/1cee88fd-3f3b-4380-a49a-8a955da36311)
+
+- Video
+- 
